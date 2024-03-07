@@ -24,7 +24,7 @@ h1 {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../img/bg.jpg);
+  background-image: url(../img/bg-image.jpg);
   background-blend-mode: color-burn;
   background-color: #2286ff;
   background-position: center;
