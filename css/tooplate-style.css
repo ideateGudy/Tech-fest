@@ -18,6 +18,10 @@ h1 {
   font-size: 2.8rem;
 }
 
+.timer-width {
+  height: 6rem;
+}
+
 #tm-bg {
   position: fixed;
   top: 0;
