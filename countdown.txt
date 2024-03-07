@@ -1,2 +1,0 @@
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-style="circles" data-timezone="Africa/Lagos" data-textcolor="#000dc7" data-date="2024-03-09 12:56" data-background="#133fd1" data-digitscolor="#db3d3d" data-unitscolor="#ffffff">Countdown Timer</a>
