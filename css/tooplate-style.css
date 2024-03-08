@@ -422,6 +422,14 @@ p:last-child {
     width: 145px;
     height: 145px;
   }
+
+  .tm-nav-text-sm {
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    line-height: 1.3;
+  }
+
 }
 
 @media (max-width: 767px) {
@@ -450,6 +458,13 @@ p:last-child {
 
   .tm-reverse-sm {
     flex-direction: column-reverse;
+  }
+
+  .tm-nav-text-sm {
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    line-height: 1.3;
   }
 }
 
