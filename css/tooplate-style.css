@@ -22,6 +22,44 @@ h1 {
   height: 6rem;
 }
 
+.bg-light-custom {
+  background-color: #0a305e;
+  transition: all 1s ease-in-out;
+
+  &:hover {
+    background-color: #006599;
+    transition: all 1s ease-in-out;
+  }
+}
+
+.margin {
+  margin-top: -10px;
+  margin-left: 5px;
+}
+
+.margin-bottom {
+  margin-bottom: -30px;
+  margin-top: -20px;
+}
+
+
+
+.text-light-custom {
+  font-weight: 600;
+  color: #fff;
+  font-size: larger;
+
+  &:hover {
+    color: #fff;
+  }
+}
+
+.inline {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
 #tm-bg {
   position: fixed;
   top: 0;
