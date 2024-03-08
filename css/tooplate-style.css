@@ -437,6 +437,10 @@ p:last-child {
     max-width: 450px;
   }
 
+  .tm-page-title-sm {
+    font-size: 1.7rem;
+  }
+
   .content {
     margin-left: auto;
     margin-right: 0;
