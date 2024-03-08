@@ -477,6 +477,10 @@ p:last-child {
     flex-direction: column;
   }
 
+  .tm-page-title-sm {
+    font-size: 1.7rem;
+  }
+
   .details__bg {
     padding: 55px 40px;
   }
